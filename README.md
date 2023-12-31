@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MAK-Gemma
+- 👋 Hi, I’m @MAK Mosh-(Fox)
 - 👀 I’m interested in Machine Learning and Artificial Intelligence Development.
 - 🌱 I’m currently Training as A Full Stack Data Scientis 
 - 💞️ I’m looking to collaborate on ...
